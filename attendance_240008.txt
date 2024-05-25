@@ -1,0 +1,25 @@
+SEG1201,Database Fundamentals,1,-,-,NOT ATTEND
+SEG1201,Database Fundamentals,2,-,-,NOT ATTEND
+SEG1201,Database Fundamentals,3,-,-,NOT ATTEND
+SEG1201,Database Fundamentals,4,-,-,NOT ATTEND
+SEG1201,Database Fundamentals,5,-,-,NOT ATTEND
+CSC1024,Programming Principles,1,-,-,NOT ATTEND
+CSC1024,Programming Principles,2,-,-,NOT ATTEND
+CSC1024,Programming Principles,3,-,-,NOT ATTEND
+CSC1024,Programming Principles,4,-,-,NOT ATTEND
+CSC1024,Programming Principles,5,-,-,NOT ATTEND
+BIS2102,Information Systems Analysis & Design,1,-,-,NOT ATTEND
+BIS2102,Information Systems Analysis & Design,2,-,-,NOT ATTEND
+BIS2102,Information Systems Analysis & Design,3,-,-,NOT ATTEND
+BIS2102,Information Systems Analysis & Design,4,-,-,NOT ATTEND
+BIS2102,Information Systems Analysis & Design,5,-,-,NOT ATTEND
+BIS3106,Project Management,1,-,-,NOT ATTEND
+BIS3106,Project Management,2,-,-,NOT ATTEND
+BIS3106,Project Management,3,-,-,NOT ATTEND
+BIS3106,Project Management,4,-,-,NOT ATTEND
+BIS3106,Project Management,5,-,-,NOT ATTEND
+CSC2103,Data Structure & Algorithms,1,-,-,NOT ATTEND
+CSC2103,Data Structure & Algorithms,2,-,-,NOT ATTEND
+CSC2103,Data Structure & Algorithms,3,-,-,NOT ATTEND
+CSC2103,Data Structure & Algorithms,4,-,-,NOT ATTEND
+CSC2103,Data Structure & Algorithms,5,-,-,NOT ATTEND

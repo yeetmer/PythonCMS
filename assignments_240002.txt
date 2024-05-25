@@ -1,0 +1,6 @@
+SEG1201, Database Fundamentals, DFA01, SEG1201_Final Assignment, 22/03/2024 16:48:03, 22/03/2024 16:48:03, Submitted
+BIS2102, Information Systems Analysis & Design, BIS01, BIS2102_Final Assignment, 22/03/2024 16:48:44, 22/03/2024 16:48:44, Submitted
+CSC2103, Data Structure & Algorithms, DSA01, CSC2103_Final Assignment, 22/03/2024 16:49:10, 22/03/2024 16:49:10, Submitted
+CSC1024, Programming Principles, PPA01, CSC1024_Final Assignment, 22/03/2024 16:49:32, 22/03/2024 16:49:32, Submitted
+BIS3106, Project Management, PMA01, BIS3106_Final Assignment, 22/03/2024 16:49:50, 22/03/2024 16:49:50, Submitted
+

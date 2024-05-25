@@ -1,0 +1,9 @@
+240001,Luna Thompson,BCS,SET,aaa
+240002,Xavier Patel,BCS,SET,bbb
+240003,Nora Zhang,BCS,SET,ccc
+240004,Leo Garcia,BSE,SET,ddd
+240005,Scarlett Brown,BSE,SET,eee
+240006,Finnegan Khan,BCS,SET,fff
+240007,Amara Rodriguez,BSDA,SET,ggg
+240008,Jasper Li,BSDA,SET,hhh
+240009,Willow Carter,BSDA,SET,iii
